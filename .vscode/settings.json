@@ -1,0 +1,9 @@
+{
+    "Lua.workspace.library": [
+        "c:\\Users\\jerem\\.vscode\\extensions\\carrot-industries.ma3-lua-api-1.3.4\\resources\\2.2"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-field"
+    ],
+    "grandMa3.extensionEnabled": true
+}
