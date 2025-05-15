@@ -1,6 +1,6 @@
 --[[ 
     Gma3 Icon List
-    version 1.1.0
+    version 1.1.0.0
     Last update April 16, 2025
     Developed by Jeremy Dufeux - Carrot Industries
     https://carrot-industries.com
